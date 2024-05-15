@@ -1,0 +1,21 @@
+.card{
+
+    display: inline-block;
+    margin-right: 10px;
+    width: 20rem;
+    
+
+}
+
+
+.card-1{
+    width: 40%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.card-img-top{
+
+    height: 15rem;
+}
